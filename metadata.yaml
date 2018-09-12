@@ -1,0 +1,50 @@
+_repo: Tragicomedia-de-Lisandro-y-Roselia-llamada-Elicia-y-por-otro-nombre-cuarta-obra-y-tercera-Cel__51130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muñón, Sancho de, active 1542
+    aliases:
+    - Munon, Sancho de
+    - De Muñón, Sancho
+    gutenberg_agent_id: '46253'
+    url: http://www.gutenberg.org/2009/agents/46253
+  editors:
+  - agent_name: Sancho Rayón, José León
+    aliases:
+    - Rayón, José León Sancho
+    - Sancho Rayon, Jose Leon
+    birthdate: 1830
+    deathdate: 1900
+    gutenberg_agent_id: '45529'
+    url: http://www.gutenberg.org/2009/agents/45529
+  - agent_name: Fuensanta del Valle, Feliciano Ramírez de Arellano, marqués de la
+    aliases:
+    - De Arellano, Feliciano Ramírez, marqués de la Fuensanta del Valle
+    - Fuensanta del Valle, marqués de la
+    - Fuensanta del Valle, Feliciano Ramirez de Arellano, marques de la
+    - Del Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta
+    - Arellano, Feliciano Ramírez de, marqués de la Fuensanta del Valle
+    - Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta del
+    - Ramírez de Arellano, Feliciano, marqués de la Fuensanta del Valle
+    birthdate: 1826
+    deathdate: 1896
+    gutenberg_agent_id: '45525'
+    url: http://www.gutenberg.org/2009/agents/45525
+description: ''
+gutenberg_issued: '2016-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51130'
+  lccn: '38007633'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama -- Classical period, 1500-1700'
+- !lcc 'PQ'
+- GITenberg
+title: 'Tragicomedia de Lisandro y Roselia
+
+  llamada Elicia, y por otro nombre cuarta obra y tercera Celestina.'
+url: http://www.gutenberg.org/ebooks/51130
